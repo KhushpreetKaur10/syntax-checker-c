@@ -1,4 +1,4 @@
-# 🚀 C Syntax Checker & Static Code Analyzer (v2.0)
+# 🚀 C Static Code Analyzer (Syntax Checker) v2.0
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
