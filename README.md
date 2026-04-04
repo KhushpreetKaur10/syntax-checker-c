@@ -99,6 +99,8 @@ syntax-checker/
 
 ├── output.txt
 
+├── LICENSE
+
 └── README.md
 
 
