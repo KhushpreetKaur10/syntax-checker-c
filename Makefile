@@ -14,5 +14,8 @@ test:
 	$(CC) $(TESTS) $(SRC) $(CFLAGS) -o test_runner
 	./test_runner
 
+run: all
+	./analyzer
+
 clean:
 	rm -f analyzer test_runner
